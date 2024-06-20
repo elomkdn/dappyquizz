@@ -1,0 +1,105 @@
+{
+"shortDescription": "Test your knowledge about Farcaster!",
+"questions": [
+{
+"question": "What is Farcaster?",
+"answers": ["Protocol", "App", "Game"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster is a ____-linked protocol.",
+"answers": ["Chain", "Token", "Coin"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster's data model is ____.",
+"answers": ["Open", "Closed", "Private"],
+"correctAnswerIndex": 0
+},
+{
+"question": "What does Farcaster support?",
+"answers": ["Apps", "Dapps", "Games"],
+"correctAnswerIndex": 1
+},
+{
+"question": "Farcaster runs on ____.",
+"answers": ["Ethereum", "Bitcoin", "Solana"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Which is a feature of Farcaster?",
+"answers": ["Interoperability", "Privacy", "Anonymity"],
+"correctAnswerIndex": 0
+},
+{
+"question": "What type of protocol is Farcaster?",
+"answers": ["Social", "Financial", "Gaming"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster aims for ____ resistance.",
+"answers": ["Censorship", "Error", "Hacker"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Who owns Farcaster data?",
+"answers": ["Users", "Company", "Government"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster allows ____ management.",
+"answers": ["Identity", "Funds", "Files"],
+"correctAnswerIndex": 0
+},
+{
+"question": "What is Farcaster’s core design?",
+"answers": ["Interoperable", "Isolated", "Central"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster’s architecture is ____.",
+"answers": ["Modular", "Monolithic", "Complex"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster can build ____ applications.",
+"answers": ["Social", "Financial", "Productive"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster aims to be ____.",
+"answers": ["Decentralized", "Centralized", "Proprietary"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Which blockchain supports Farcaster?",
+"answers": ["Ethereum", "Binance", "Cardano"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster is a ____ protocol.",
+"answers": ["Social", "Gaming", "File"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster allows creation of ____ identities.",
+"answers": ["Digital", "Analog", "Hybrid"],
+"correctAnswerIndex": 0
+},
+{
+"question": "The protocol's focus is ____.",
+"answers": ["Interoperability", "Speed", "Security"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster emphasizes data ____.",
+"answers": ["Ownership", "Storage", "Security"],
+"correctAnswerIndex": 0
+},
+{
+"question": "Farcaster helps build ____ apps.",
+"answers": ["Social", "Financial", "Gaming"],
+"correctAnswerIndex": 0
+}
+]
+}
